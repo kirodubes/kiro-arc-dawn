@@ -1,4 +1,4 @@
-# CLAUDE.md — edu-arc-dawn
+# CLAUDE.md — kiro-arc-dawn
 
 ## Project overview
 

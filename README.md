@@ -2,7 +2,7 @@
   <img src="kiro.jpg" alt="Kiro" width="220" />
 </p>
 
-# edu-arc-dawn
+# kiro-arc-dawn
 
 The **Arc Dawn** GTK theme family — three light/dark variants of the popular [Arc theme](https://github.com/horst3180/arc-theme), packaged for easy installation on Arch / Kiro. Part of the `~/EDU/` learning series.
 
@@ -30,7 +30,7 @@ Server = https://erikdubois.github.io/$repo/$arch
 
 ```bash
 sudo pacman -Syu
-sudo pacman -S edu-arc-dawn-git
+sudo pacman -S kiro-arc-dawn
 ```
 
 Themes are installed under `/usr/share/themes/Arc-Dawn*` and become selectable in any GTK-based theme switcher.
@@ -38,8 +38,8 @@ Themes are installed under `/usr/share/themes/Arc-Dawn*` and become selectable i
 ### Manual
 
 ```bash
-git clone https://github.com/erikdubois/edu-arc-dawn.git
-cd edu-arc-dawn
+git clone https://github.com/kirodubes/kiro-arc-dawn.git
+cd kiro-arc-dawn
 sudo cp -r usr/share/themes/. /usr/share/themes/
 ```
 
